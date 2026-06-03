@@ -3,41 +3,27 @@ Built a fintech analytics dashboard using Power BI to analyse UPI transaction da
 
 **Tools & Technologies Used**
 
--Power BI
-
--DAX
-
--Power Query
-
--Excel/CSV
-
--Data Modelling
-
--Fintech Analytics
-
--Dashboard Design
+-Power BI <br>
+-DAX <br>
+-Power Query <br>
+-Excel/CSV <br>
+-Sharepoint <br>
+-Data Modelling <br>
+-Fintech Analytics <br>
+-Dashboard Design <br>
 
 
-**Bonus Senior-Level Add-ons**
-
--Add AI Features
-
--Transaction anomaly detection
-
--Predict failed transactions
-
--Customer segmentation using clustering
-
--Integration Ideas
-
--SQL Database
-
--Python Fraud Model
-
--Real-Time API Simulation
+<img width="710.5" height="401" alt="image" src="https://github.com/user-attachments/assets/500b59a6-0ca3-42a1-a97c-fcff8322d238" /> <br>
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/171c30aa-1dc7-464f-b771-2f26fbe7882f" /> <br>
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/8a55386e-6a20-4831-81b8-9d39fdc82570" />  <br>
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/7b70ce5f-3145-4cfb-b40f-3c2bdb1c4235" />  <br>
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/01cbbe44-23fb-460e-848f-89406537e06b" />
 
 
-<img width="720" height="568" alt="image" src="https://github.com/user-attachments/assets/f1a5110d-08f9-4608-a4da-34bd40b1cd14" />
+
+
+
+
 
 
 
