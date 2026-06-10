@@ -11,6 +11,9 @@ Built a fintech analytics dashboard using Power BI to analyse UPI transaction da
 -Data Modelling <br>
 -Fintech Analytics <br>
 -Dashboard Design <br>
+-Python<br>
+-Machine Learning
+-
 
 
 <img width="710.5" height="401" alt="image" src="https://github.com/user-attachments/assets/500b59a6-0ca3-42a1-a97c-fcff8322d238" /> <br>
