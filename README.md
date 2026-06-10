@@ -19,6 +19,7 @@ Built a fintech analytics dashboard using Power BI to analyse UPI transaction da
 <img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/7b70ce5f-3145-4cfb-b40f-3c2bdb1c4235" /> 
 <img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/a852554a-c3af-4812-add7-ffe2170e6c01" />
 
+<img width="710.5" height="401" alt="image" src="https://github.com/user-attachments/assets/00964b5c-0506-402d-a72b-a9fafd39f63a" />
 
 
 
